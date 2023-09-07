@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie_spa_lesson/static/css/main.65531add.css",
+    "main.js": "/Movie_spa_lesson/static/js/main.492cfaa4.js",
+    "index.html": "/Movie_spa_lesson/index.html",
+    "main.65531add.css.map": "/Movie_spa_lesson/static/css/main.65531add.css.map",
+    "main.492cfaa4.js.map": "/Movie_spa_lesson/static/js/main.492cfaa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65531add.css",
+    "static/js/main.492cfaa4.js"
+  ]
+}
